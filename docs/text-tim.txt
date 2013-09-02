@@ -1,0 +1,33 @@
+Developing your app is an integral step in your businesses marketing strategy.
+
+If you're like most business owners, you've already invested your time and money into marketing.
+
+An app puts your business in touch with your clients at their fingertips, creating the dynamic of a user friendly experience.
+
+about
+	<h2> Welcome to Promethean Apps. We are here to assist our clients with the development of their business marketing strategy through a Web App. </h2>
+	<h3>By applying sound business practice, while implementing innovative marketing and design engineering, we can enhance your customers experience.</h3>
+
+What we do	
+		<p>We offer innovative software development solutions for building web apps. By combining your social media and website(s) to develop the design and layout of your apps appearance, we can customize the experience to enhance the functionality of the user's interface for each platform. This creates the dynamic of a user friendly experience through a web app.								
+	</p>
+	
+			<p>
+				What sets us apart from most App development firms, is that we offer what they too often can not. What I am referring to is Web Architecture. When designing and engineering web application software, it's crucial that the developer has the "right-kind-of-experience" to back the quality of development necessary to create an efficient, and functional app for every platform of usability  across the client's app.
+			</p>
+			
+				<p>
+				Web Architecture	
+				</p>
+      
+        	<h4>Creative Innovation</h4>
+					<p>Offering customized software application development solutions for building and designing of web app's for you and/ or your clients needs.</p>
+					
+					<h4>Mobile App Development</h4>
+					<p>	Putting you in touch with your clients at their fingertips, by creating the dynamic of a user friendly experience through a web app.</p>
+					
+					<h4>Marketing Strategies</h4>
+					<p>Understanding that if you're like most business owners, you've already invested your time AND money into marketing.</p>
+					
+					<h4>Social Media Marketing</h4>
+					<p>Combining your social media with your website to develop the layout and appearance of your app for the user's experience.</p>
