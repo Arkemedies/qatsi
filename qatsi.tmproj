@@ -128,7 +128,7 @@
 			<key>filename</key>
 			<string>sliders.html</string>
 			<key>lastUsed</key>
-			<date>2013-08-30T17:33:18Z</date>
+			<date>2013-09-03T01:45:39Z</date>
 			<key>selected</key>
 			<true/>
 		</dict>
@@ -198,6 +198,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{290, 10}, {974, 768}}</string>
+	<string>{{10, 64}, {827, 682}}</string>
 </dict>
 </plist>
