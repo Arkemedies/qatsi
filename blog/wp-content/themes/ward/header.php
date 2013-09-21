@@ -38,6 +38,12 @@ $bavotasan_theme_options = bavotasan_theme_options();
 				<a id="site-title" class="navbar-brand" href="<?php echo esc_url( home_url() ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?> <small><?php bloginfo( 'description' ); ?></small></a>
 				<h3 class="screen-reader-text"><?php _e( 'Main menu', 'ward' ); ?></h3>
 				<a class="screen-reader-text" href="#primary" title="<?php esc_attr_e( 'Skip to content', 'ward' ); ?>"><?php _e( 'Skip to content', 'ward' ); ?></a>
+				<ul class="nav">
+				<li ><a href="http://prometheanapps.com">Home<span>start here</span></a></li>
+				<li ><a href="http://blog.prometheanapps.com">Blog<span>our stories</span></a></li>
+        <li class="active"><a href="http://prometheanapps.com/contact.html">Contact<span>stay in touch</span></a></li>
+
+        		</ul>
 				<?php wp_nav_menu( array( 'theme_location' => 'primary', 'container' => 'nav', 'container_class' => 'navbar-collapse collapse', 'menu_class' => 'nav navbar-nav', 'fallback_cb' => 'bavotasan_default_menu' ) ); ?>
 			</div>
 		</header>
