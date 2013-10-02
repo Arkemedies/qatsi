@@ -1,6 +1,6 @@
 <?php
 
-$admin_email = "lukasz@holeczek.pl"; // Only Change This Mail
+$admin_email = "prometheanapps@gmail.com"; // Only Change This Mail
 
 	
 if ($_POST['new_message']) {
